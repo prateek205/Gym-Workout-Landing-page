@@ -7,4 +7,4 @@
 - Compatible for small devices.
 - Smooth Scrolling.
 
-## 📺 Live Demo: 
+## 📺 Live Demo: https://gym-workout-landing-page.vercel.app
